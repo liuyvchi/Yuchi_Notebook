@@ -1,0 +1,3 @@
+聚类分析的算法可以分为
+划分法（Partitioning Methods）、层次法（Hierarchical Methods）、基于密度的方法（density-based methods）、
+基于网格的方法（grid-based methods）、基于模型的方法（Model-Based Methods）
